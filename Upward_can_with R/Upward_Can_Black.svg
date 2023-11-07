@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW (Evaluation Version) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="45px" height="45px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 45 45"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="666" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="R" horiz-adv-x="722" d="M79.0502 0l0 715.915 317.317 0c63.7981,0 112.344,-6.51001 145.452,-19.344 33.1081,-12.834 59.7061,-35.5261 79.4222,-67.8901 19.902,-32.5501 29.7601,-68.6341 29.7601,-107.88 0,-50.7781 -16.554,-93.7442 -49.2901,-128.526 -32.9221,-34.7821 -83.5142,-56.7301 -152.148,-66.2161 25.1101,-12.09 44.0821,-23.994 57.1021,-35.7121 27.7141,-25.2961 53.7541,-57.1021 78.3062,-95.4182l123.876 -194.928 -118.296 0 -94.6742 148.986c-27.5281,43.1521 -50.4061,76.0742 -68.2621,98.7662 -18.042,22.878 -34.0381,38.6881 -48.1741,47.9881 -13.95,8.92802 -28.4581,15.252 -43.1521,18.972 -10.602,2.046 -28.0861,3.34801 -52.6381,3.34801l-109.74 0 0 -318.061 -94.8602 0zm94.8602 399.901l203.484 0c43.3381,0 76.8182,4.65001 101.184,13.578 24.366,8.74202 42.9661,23.25 55.4281,42.9661 12.648,19.716 18.972,41.1061 18.972,64.1701 0,33.8521 -12.09,61.9381 -36.6421,83.7002 -24.552,21.762 -63.2401,32.7361 -116.064,32.7361l-226.362 0 0 -237.15z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#2B2A29;stroke-width:2;stroke-miterlimit:22.9256}
+    .str1 {stroke:#2B2A29;stroke-width:2.36;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil2 {fill:none;fill-rule:nonzero}
+    .fil1 {fill:#2B2A29}
+    .fnt0 {font-weight:normal;font-size:6.35px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <ellipse class="fil0 str0" cx="18.5" cy="34.43" rx="8" ry="2.07"/>
+  <line class="fil0 str0" x1="9.17" y1="38.85" x2="28.72" y2= "38.85" />
+  <line class="fil0 str0" x1="10.5" y1="4.33" x2="10.5" y2= "34.43" />
+  <line class="fil0 str0" x1="26.49" y1="34.43" x2="26.49" y2= "4.33" />
+  <path class="fil0 str0" d="M10.51 5.41c-0.02,0.15 -0.09,-0.36 0.63,-0.73 2.35,-1.22 3.25,-1.16 5.35,0.62 1.48,1.25 1.67,2.35 4.61,1.66 2.22,-0.52 2.81,-0.72 4.86,-1.83l0.37 -0.09 0.16 0.37"/>
+  <line class="fil0 str0" x1="32.5" y1="23.63" x2="32.5" y2= "32.73" />
+  <line class="fil0 str0" x1="32.5" y1="20.86" x2="32.5" y2= "24.5" />
+  <g id="_1764621301056">
+   <g transform="matrix(0.79244 0 0 1 17.2724 8.99981)">
+    <text x="22.5" y="22.5"  class="fil1 fnt0">R</text>
+   </g>
+  </g>
+  <path class="fil2 str1" d="M33.39 22.02l-1.82 0.04 0.86 -0.93 0.96 0.89zm-0.91 0.02m-0.48 -0.45m0.91 -0.01"/>
+ </g>
+</svg>
