@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" xml:space="preserve" width="45px" height="45px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 45 45">
+ <defs fill="#9c0000">
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#f44336;stroke-width:2;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil0 {fill:#f44336}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer" fill="#9c0000"/>
+  <g id="_2017716754800">
+   <g>
+    <rect class="fil0 str0" x="1.5" y="9.5" width="15" height="5" fill="#9c0000"/>
+    <rect class="fil0 str0" x="27.5" y="9.5" width="15" height="5" fill="#9c0000"/>
+   </g>
+  </g>
+  <line class="fil1 str0" x1="2.5" y1="28.5" x2="16.5" y2="28.5" fill="#9c0000"/>
+  <rect class="fil1 str0" x="0.55" y="16.5" width="43" height="28" fill="#9c0000"/>
+  <line class="fil1 str0" x1="2.5" y1="28.5" x2="16.5" y2="28.5" fill="#9c0000"/>
+  <line class="fil1 str0" x1="26.5" y1="28.5" x2="40.5" y2="28.5" fill="#9c0000"/>
+  <line class="fil1 str0" x1="33.5" y1="22.5" x2="33.5" y2="34.5" fill="#9c0000"/>
+ </g>
+</svg>
